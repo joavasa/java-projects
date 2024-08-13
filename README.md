@@ -11,8 +11,6 @@ Mi nombre es José Avalos, y actualmente estoy cursando el séptimo ciclo de la 
 Este repositorio incluye una variedad de ejercicios y proyectos realizados como parte de mis estudios universitarios. A continuación, se muestra una lista de algunos de los proyectos incluidos:
 
 - **Fibonacci**: Implementación del algoritmo de Fibonacci.
-- **Nombre del Proyecto 2**: Breve descripción del proyecto.
-- **Nombre del Proyecto 3**: Breve descripción del proyecto.
 
 ## Contacto
 
